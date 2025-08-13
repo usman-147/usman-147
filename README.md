@@ -7,3 +7,7 @@
   &nbsp; Welcome to my GitHub profile! &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
+
+<h3 align="center">
+  Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammed Usman
+</h3>
