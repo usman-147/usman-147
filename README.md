@@ -19,3 +19,21 @@
     <a style="border:5px white" border="5px white" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=3500&pause=750&color=72C9E4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Dedicated+not+Distracted;Continuous+Learner;Problem+Solver;CSE+Graduate" alt="Typing SVG" /></a>
 </kbd>
 </div>
+
+<h2><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About Me</h2>
+
+<img align="right" width="370" height="320" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+- 🔭 I’m currently working on `Military Management System`.
+  
+- 🌱 I’m currently learning `DSA`.
+  
+- 🔍 Seeking an `Internship` or a `Job`.
+  
+- 👯 I’m looking to collaborate on `various projects`.
+  
+- 🚀 Passionate about `Web Development`.
+
+- 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1oVdE2DDy8wbet50oViBTEy2O2QHPcWBp/view?usp=sharing)**.
+
+- [Github generated Resume](https://resume.github.io/?usman-147)
