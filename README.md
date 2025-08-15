@@ -37,3 +37,7 @@
 - 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1oVdE2DDy8wbet50oViBTEy2O2QHPcWBp/view?usp=sharing)**.
 
 - [Github generated Resume](https://resume.github.io/?usman-147)
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+<h2><a id="technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills</h2>
