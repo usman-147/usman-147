@@ -79,9 +79,23 @@
 <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"></a>
 <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white"></a>
 
-
-## ☁️ Cloud & DevOps
+## ☁️ Cloud and DevOps
 <a href="#"><img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4.svg?style=for-the-badge&logo=google-drive&logoColor=white"></a>
 <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?style=for-the-badge&logo=github%20actions&logoColor=white"></a>
 <a href="#"><img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?style=for-the-badge&logo=gunicorn&logoColor=white"></a>
+
+## 🛠️ Tools and Platforms
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="#"><img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+<a href="#"><img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white"></a>
+<a href="#"><img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"></a>
+<a href="#"><img alt="Maven" src="https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"></a>
+<a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/-Chrome-4285F4?style=for-the-badge&logo=chrome&logoColor=white"></a>
+<a href="#"><img alt="Firefox" src="https://img.shields.io/badge/-Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white"></a>
+<a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-F34B7D?style=for-the-badge&logo=brave&logoColor=white"></a>
