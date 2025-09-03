@@ -101,3 +101,18 @@
 <a href="#"><img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"></a>
 
 ## AI, ML and data Science
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+<a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/seaborn-%230C5A5B.svg?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="#"><img alt="Computer Vision" src="https://img.shields.io/badge/computer%20vision-%230072B1.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
+<a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black"></a>
+<a href="#"><img alt="YOLO" src="https://img.shields.io/badge/yolo-%23FFBB00.svg?style=for-the-badge&logo=yolo&logoColor=black"></a>
+<a href="#"><img alt="Plotly" src="https://img.shields.io/badge/plotly-%230079C1.svg?style=for-the-badge&logo=plotly&logoColor=white"></a>
+<a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-%230C5A5B.svg?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
+<a href="#"><img alt="Conda" src="https://img.shields.io/badge/conda-%2348A868.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
+<a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/anaconda-%2348A868.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
+<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+
+## Testing and Quality
+<a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"></a>
+<a href="#"><img alt="Playwright" src="https://img.shields.io/badge/playwright-%2300C853.svg?style=for-the-badge&logo=playwright&logoColor=white"></a>
