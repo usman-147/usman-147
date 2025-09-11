@@ -116,3 +116,11 @@
 ## Testing and Quality
 <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"></a>
 <a href="#"><img alt="Playwright" src="https://img.shields.io/badge/playwright-%2300C853.svg?style=for-the-badge&logo=playwright&logoColor=white"></a>
+
+## Hosting and Deployment
+
+<a href="#"><img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white"></a>
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="#"><img alt="Render" src="https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white"></a>
+<a href="#"><img alt="Railway" src="https://img.shields.io/badge/railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white"></a>
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/github%20pages-121013.svg?style=for-the-badge&logo=github&logoColor=white"></a>
