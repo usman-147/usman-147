@@ -124,3 +124,7 @@
 <a href="#"><img alt="Render" src="https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white"></a>
 <a href="#"><img alt="Railway" src="https://img.shields.io/badge/railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white"></a>
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/github%20pages-121013.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+
+## Integrations and Security
+
+<a href="#"><img alt=".env" src="https://img.shields.io/badge/.env-configuration-%2300C853.svg?style=for-the-badge"></a>
